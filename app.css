@@ -1,0 +1,36 @@
+.carousel{margin-bottom: 100px;
+
+}
+.cadastrar{
+    background-color: #654fa5;
+    padding: 10px 30px;
+    color: white;
+    border-radius: 30px;
+    margin-bottom: 15px;
+    text-decoration: none;
+}
+
+.saber{
+    color: #654fa5;
+    background-color: white;
+    padding: 10px 30px;
+    border: 1px solid #654fa5;
+    border-radius: 30px;
+    text-decoration: none;
+}
+
+.cursos{
+    width: 100%;
+    display: flex;
+    justify-content:center;
+    margin-top: 100px;
+
+
+
+}
+
+.card{
+    margin: 0 10px;
+    
+
+}
